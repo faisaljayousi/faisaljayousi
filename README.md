@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/jayousi?theme=dark&font=patrick_hand&extension=null" alt="LeetCode Stats" />
+  <img src="https://leetcode.card.workers.dev/jayousi?theme=transparent&font=patrick_hand&extension=null" alt="LeetCode Stats" />
 </p>
