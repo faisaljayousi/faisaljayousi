@@ -1,10 +1,7 @@
 <h1 align="center">Faisal Jayousi</h1>
 <h3 align="center">PhD Student</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social media links here -->
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -30,8 +27,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisaljayousi&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://leetcode.card.workers.dev/jayousi?theme=transparent&font=patrick_hand&extension=null" alt="LeetCode Stats" />
 </p>
