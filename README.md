@@ -28,3 +28,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisaljayousi&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faisaljayousi&style=for-the-badge&logo=github" alt="Profile Views" />
+</p>
