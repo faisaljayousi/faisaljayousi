@@ -12,7 +12,7 @@
 </h2>
 <p align="center">
   <samp>
-    <a href="https://faisaljayousi.github.io/">https://faisaljayousi.github.io/</a>
+    <a href="https://fjayousi.com/">https://fjayousi.com/</a>
   </samp>
   <hr>
   <!-- ---------------------------------- -->
