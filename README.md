@@ -67,12 +67,22 @@
 
 <hr>
 <!-- ---------------------------------- -->
-
 <h2 align="center">📫 How to reach me </h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/faisaljayousi/"><img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:faisal.jayousi@proton.me"><img
       src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<hr>
+<!-- ---------------------------------- -->
+<h2 align="center">📖 Bibliography </h2>
+
+<p align="center">
+  <samp>
+    This <a href="https://github.com/faisaljayousi/Bibliography">repository</a> hosts a curated, tagged reference database that helps researchers quickly find relevant references (books, articles, etc.) through keyword search.
+  </samp>
 </p>
 
