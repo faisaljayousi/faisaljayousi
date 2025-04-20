@@ -67,7 +67,7 @@
 
 <p align="center">
   <samp>
-    This <a href="https://github.com/faisaljayousi/Bibliography">repository</a> hosts a curated, tagged reference database that helps researchers quickly find relevant references (books, articles, etc.) through keyword search.
+    This <a href="https://github.com/faisaljayousi/Bibliography">repository</a> hosts a personal, curated collection of mathematics / computer science reference books that I actively use in my work and studies. The database is generated as a searchable HTML page, with each entry tagged by keywords for easier navigation and topical exploration.
   </samp>
 </p>
 
