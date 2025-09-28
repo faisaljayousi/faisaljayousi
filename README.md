@@ -2,7 +2,7 @@
 
 <h4 align="center">
   <samp>
-    [Open to Work]
+    <!-- [Open to Work] -->
   </samp>
 </h4>
 <hr>
