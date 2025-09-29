@@ -6,6 +6,14 @@
   </samp>
 </h4>
 <hr>
+
+<h4 align="center">
+  <samp>
+    Quant · Applied Mathematics · Derivatives Pricing
+  </samp>
+</h4>
+<hr>
+
 <!-- ----------------------------------- -->
 <h2 align="center">
   🌐 Personal Website
@@ -21,13 +29,12 @@
 </h2>
 <p align="center">
   <samp>
-    I am an <strong>applied mathematician</strong>, currently pursuing a PhD funded by the <a href="https://3ia.univ-cotedazur.eu/">3IA Côte d'Azur</a> grant, with expertise in data analysis, statistical learning, deep learning and mathematical modelling. 
+    My academic background is in applied mathematics with a <strong>PhD in Signal Processing (CNRS/INRIA)</strong> and an <strong>MSc in Applied Mathematics (Univ. Rennes)</strong>.
     <!--<br>-->
     <!--<br>-->
     <!--📧 <a href="mailto:faisal.jayousi@proton.me">faisal.jayousi@proton.me</a> 📧-->
   </samp>
-  <br>
-  <br>
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=faisaljayousi&style=for-the-badge&logo=github" alt="Profile Views" />
   <!--<br>-->
   <!--<br>-->
@@ -61,13 +68,13 @@
 </p>
 
 
-<hr>
+<!-- <hr> -->
 <!-- ---------------------------------- -->
-<h2 align="center">📖 Bibliography </h2>
+<!-- <h2 align="center">📖 Bibliography </h2>
 
-<p align="center">
+<!-- <p align="center">
   <samp>
     This <a href="https://github.com/faisaljayousi/Bibliography">repository</a> hosts a personal, curated collection of mathematics / computer science reference books that I actively use in my work and studies. The database is generated as a searchable HTML page, with each entry tagged by keywords for easier navigation and topical exploration.
   </samp>
-</p>
+</p> --> 
 
