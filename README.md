@@ -1,12 +1,5 @@
-<img width="1600" height="500" alt="image" src="https://github.com/user-attachments/assets/fe74b3b2-456e-404c-93f6-6d6fb725dab6" />
+<img width="1600" height="250" alt="image" src="https://github.com/user-attachments/assets/fe74b3b2-456e-404c-93f6-6d6fb725dab6" />
 
-
-<h4 align="center">
-  <samp>
-    <!-- [Open to Work] -->
-  </samp>
-</h4>
-<hr>
 
 <h4 align="center">
   <samp>
@@ -30,17 +23,28 @@
 </h2>
 <p align="center">
   <samp>
-    My academic background is in applied mathematics with a <strong>PhD in Signal Processing (CNRS/INRIA)</strong> and an <strong>MSc in Applied Mathematics (Univ. Rennes)</strong>.
-    <!--<br>-->
-    <!--<br>-->
-    <!--📧 <a href="mailto:faisal.jayousi@proton.me">faisal.jayousi@proton.me</a> 📧-->
+    My academic background is in applied mathematics with a <strong>PhD in Signal Processing (CNRS/INRIA)</strong> and an <strong>MSc in Applied Mathematics (Univ. Rennes)</strong>. Currently working on derivatives pricing and valuation under real market constraints using Signal Processing techniques.
   </samp>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=faisaljayousi&style=for-the-badge&logo=github" alt="Profile Views" />
   <!--<br>-->
   <!--<br>-->
 
 </p>
+
+
+<hr>
+<h2 align="center"> 🔍 Focus </h2>
+
+<p align="center">
+  <samp>
+    My interests lie in <strong>derivatives pricing and valuation</strong>, with a particular focus on:
+    <br><br> 
+    • volatility surfaces and their behaviour under stress<br>
+    • numerical stability and failure modes of pricing models<br>
+    • the interaction between theoretical prices, market data, and liquidity
+  </samp>
+</p>
+
 
 <hr>
 <!-- ---------------------------------- -->
